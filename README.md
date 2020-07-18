@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="skilldeliver.png">
+  <img src="skilldeliver_banner.png">
 </p>
