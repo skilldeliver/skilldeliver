@@ -1,10 +1,10 @@
 Python developer with some frontend and design skills here!
 
 #### NOW
-- 🧬 Learning more about ML and Computational biology
-- 💸 Freelancing Django/FastAPI/Flask/React [Contact me](mailto:vladislav.d.mihov@gmail.com)
-- 💙 Volunteering for [podkrepi.bg](https://podkrepi.bg/)
-- 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council
+- 💸 Freelancing Django/FastAPI/Flask/React/GCP [Contact me](mailto:vladislav.d.mihov@gmail.com)
+- 🇧🇬 Creating bulgarian IT community focused on converting more noobs into juniors [IT Bulgaria](https://it-bg.github.io/)
+- 💙 NGOs: Volunteering for [podkrepi.bg](https://podkrepi.bg/) | Building "Bridges of Trust"
+- 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council | computer science and business management student
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
