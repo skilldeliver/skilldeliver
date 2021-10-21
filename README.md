@@ -1,9 +1,10 @@
-Python developer with some frontend and design skills here!
+Python developer with some frontend, marketing & design skills here!
 
 #### NOW
-- 💸 Freelancing Django/FastAPI/Flask/React/GCP [Contact me](mailto:vladislav.d.mihov@gmail.com) | [vmihov.com]()
+- 🔥 Preparing something really cool!
+- 💸 Freelancing Django/FastAPI/Flask/React/GCP [Contact me](mailto:vladislav.d.mihov@gmail.com)
+- 💙 NGOs: Building "Bridges of Trust" foundation
 - 👉 Creating bulgarian IT community focused on converting more noobs into juniors [IT Bulgaria](https://it-bg.github.io/)
-- 💙 NGOs: Volunteering for [podkrepi.bg](https://podkrepi.bg/) | Building "Bridges of Trust" foundation
 - 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council | computer science and business management student
 
 #### CONNECT
