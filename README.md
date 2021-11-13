@@ -1,4 +1,4 @@
-Python developer with some frontend, marketing & design skills here!
+Python developer with some frontend & design skills here!
 
 #### NOW
 - 🔥 Preparing something really cool!
