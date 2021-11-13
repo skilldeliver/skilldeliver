@@ -2,9 +2,8 @@ Python developer with some frontend, marketing & design skills here!
 
 #### NOW
 - 🔥 Preparing something really cool!
-- 💸 Freelancing Django/FastAPI/Flask/React/GCP [Contact me](mailto:vladislav.d.mihov@gmail.com)
+- 👉 Developing next gen bulgarian IT community
 - 💙 NGOs: Building "Bridges of Trust" foundation
-- 👉 Creating bulgarian IT community focused on converting more noobs into juniors [IT Bulgaria](https://it-bg.github.io/)
 - 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council | computer science and business management student
 
 #### CONNECT
