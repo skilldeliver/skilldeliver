@@ -1,10 +1,9 @@
 Python developer with some frontend & design skills here!
 
 #### NOW
-- 🔥 Preparing something really cool!
-- 👉 Developing next gen bulgarian IT community
 - 💙 NGOs: Building "Bridges of Trust" foundation
 - 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council
+- 🔥 Freelancing and building great teams!
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
