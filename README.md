@@ -1,9 +1,9 @@
 Python developer with some frontend & design skills here!
 
 #### NOW
-- 💙 NGOs: Building "Bridges of Trust" foundation
-- 🎓 Students' representative at [NBU](https://nbu.bg/) Student Council
-- 🔥 Freelancing and building great teams!
+- Synaptic Studio
+- [Stitchia Network](https://stitchia.io/)
+- [Bridges of Trust](https://www.mnd.bg/)
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
