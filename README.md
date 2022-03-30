@@ -7,7 +7,7 @@ Python developer with some frontend & design skills here!
 
 #### CONNECT
 You have cool idea or want to chat? 🔽
-- ([vmihov.com](https://www.vmihov.com/))
+- [vmihov.com](https://www.vmihov.com/)
 - [Linkedin](https://www.linkedin.com/in/mihov/)
 - [Instagram](https://www.instagram.com/killtheliver/)
 
