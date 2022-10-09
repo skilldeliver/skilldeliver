@@ -1,7 +1,7 @@
 Python developer with some frontend & design skills here!
 
 #### NOW
-- [Synaptic](https://the-synaptic.com/)
+- [Synaptic](https://wesynaptic.com/)
 - [Stitchia Network](https://stitchia.io/)
 - [Bridges of Trust](https://www.mnd.bg/)
 
